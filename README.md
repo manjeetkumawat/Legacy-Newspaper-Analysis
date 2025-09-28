@@ -16,3 +16,12 @@ After COVID-19, Bharat Herald faced existential challenges as competitors moved 
 🛠 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝
 - SQL (MSSQL)
 - Power BI
+
+Report 1:
+![Image](https://github.com/user-attachments/assets/bbe2f968-45d3-434d-9055-e4f7087414cf)
+
+Report 2:
+![Image](https://github.com/user-attachments/assets/b6f58a88-338e-4e23-98b1-e33ffb558e1d)
+
+Report 3:
+![Image](https://github.com/user-attachments/assets/4a7a5449-c859-4595-8e10-80342d62f791)
