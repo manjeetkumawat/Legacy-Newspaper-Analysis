@@ -1,0 +1,34 @@
+{
+  "name": "Newspaper Style",
+  "dataColors": [
+    "#1a1a1a",
+    "#4d4d4d",
+    "#b30000",
+    "#003366",
+    "#737373",
+    "#d9d9d9",
+    "#f2e6d9"
+  ],
+  "background": "#ffffff",
+  "foreground": "#1a1a1a",
+  "tableAccent": "#b30000",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": { "solid": { "color": "#1a1a1a" } },
+            "fontSize": 12,
+            "fontFamily": "Georgia"
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#4d4d4d" } },
+            "fontSize": 10
+          }
+        ]
+      }
+    }
+  }
+}
